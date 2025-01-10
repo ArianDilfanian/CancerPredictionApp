@@ -105,3 +105,18 @@ Streamlit for creating an easy-to-use framework for building interactive apps.
 scikit-learn for providing the Logistic Regression algorithm used for training the model.
 
 
+# 📁 Screenshots and Video
+
+![Screenshot 2024-12-02 225020](https://github.com/user-attachments/assets/50c8c37c-bf53-423a-a535-da4f656c1d90)
+![Screenshot 2024-12-02 225109](https://github.com/user-attachments/assets/b19e5d5e-39df-474c-ab1f-49156053c55b)
+
+===============================================
+
+
+
+https://github.com/user-attachments/assets/4754e582-5a0f-4ca9-8564-70032c43d42a
+
+
+
+
+
