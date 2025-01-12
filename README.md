@@ -19,14 +19,24 @@ Data Scaling: The model uses scaled input data to ensure predictions are more ac
 This project includes the following files and directories:
 
 Cancer-Predictor-App/
+
 │
+
+
 ├── data/                # Folder containing the dataset for training
+
 ├── model/               # Folder storing trained model and scaler (.pkl files)
+
 ├── assets/              # Custom CSS styles and images for the app
-│   └── style.css        # Styling for the app
+
+ └── style.css        # Styling for the app
+
 ├── app.py               # Streamlit app script
+
 ├── train_model.py       # Python script for training the model
+
 ├── requirements.txt     # List of dependencies for the project
+
 └── README.md            # Project documentation
 
 
